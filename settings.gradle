@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TextEButton"
+rootProject.name = "ControleEstoquedeFilamentosImpressao3D"
 include ':app'
